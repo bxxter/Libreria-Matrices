@@ -94,5 +94,5 @@ Matriz.imprimirMatriz(producto);
 
 ## Autores  
 
-| [<img src="https://avatars.githubusercontent.com/u/166089639?v=4" width=115><br><sub>Azael</sub>](https://github.com/bxxter) | [<img src="https://avatars.githubusercontent.com/u/205721466?v=4" width=115><br><sub>Fernando</sub>](https://github.com/Bazendu) |  
+| [<img src="https://avatars.githubusercontent.com/u/166089639?v=4" width=115><br><sub>Azael Chavez Lorenzo</sub>](https://github.com/bxxter) | [<img src="https://avatars.githubusercontent.com/u/205721466?v=4" width=115><br><sub>Fernando Arias Canton</sub>](https://github.com/Bazendu) |  
 | :---: | :---: |
