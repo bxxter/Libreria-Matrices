@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="A7" alignment="1" min="-2" pref="71" max="-2" attributes="0"/>
+                                      <Component id="A4" min="-2" pref="71" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                                          <Component id="A8" min="-2" pref="71" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="A5" min="-2" pref="71" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="A9" max="32767" attributes="0"/>
+                                              <Component id="A6" max="32767" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="A1" min="-2" pref="71" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="jLabel1" min="-2" pref="61" max="-2" attributes="0"/>
+                                      <Component id="A2" min="-2" pref="71" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="A3" min="-2" pref="75" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                      <Component id="B7" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="B4" alignment="0" pref="71" max="32767" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="B5" pref="71" max="32767" attributes="0"/>
+                                      <Component id="B8" max="32767" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="B6" max="32767" attributes="0"/>
+                                      <Component id="B9" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="B1" min="-2" pref="71" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="jLabel2" min="-2" pref="61" max="-2" attributes="0"/>
+                                      <Component id="B2" min="-2" pref="71" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="B3" min="-2" pref="75" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabel4" min="-2" pref="131" max="-2" attributes="0"/>
+                              <Group type="102" attributes="0">
+                                  <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="btnAceptar" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="31" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="A1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="A2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="B1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="B2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="A3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="B3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="A4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="A5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="B4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="B5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="A6" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="B6" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="A7" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="A8" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="A9" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="B7" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="B8" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="B9" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="125" max="-2" attributes="0"/>
+                                  <Component id="btnAceptar" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JTextField" name="A1">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Matriz  A"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="A4">
+        </Component>
+        <Component class="javax.swing.JTextField" name="A2">
+        </Component>
+        <Component class="javax.swing.JTextField" name="A5">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Matriz  B"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="B1">
+        </Component>
+        <Component class="javax.swing.JTextField" name="B2">
+        </Component>
+        <Component class="javax.swing.JTextField" name="B4">
+        </Component>
+        <Component class="javax.swing.JTextField" name="B5">
+        </Component>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jboxTranspuesta" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jboxSuma" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jboxResta" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jboxMultiplicacion" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="47" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jboxInversa" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jboxDiagonales" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jboxDeterminante" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jboxSuma" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jboxDeterminante" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jboxResta" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jboxDiagonales" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jboxMultiplicacion" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jboxInversa" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jboxTranspuesta" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace pref="10" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JCheckBox" name="jboxResta">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Resta"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="jboxMultiplicacion">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Multiplicaci&#xf3;n"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="jboxTranspuesta">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Transpuesta"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="jboxSuma">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Suma"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="jboxDeterminante">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Determinantes"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="jboxDiagonales">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Traza (Diagonal principal)"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="jboxInversa">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Inversas"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="btnAceptar">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Aceptar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnAceptarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Operaciones a realizar"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="A7">
+        </Component>
+        <Component class="javax.swing.JTextField" name="A3">
+        </Component>
+        <Component class="javax.swing.JTextField" name="A6">
+        </Component>
+        <Component class="javax.swing.JTextField" name="B3">
+        </Component>
+        <Component class="javax.swing.JTextField" name="B6">
+        </Component>
+        <Component class="javax.swing.JTextField" name="A8">
+        </Component>
+        <Component class="javax.swing.JTextField" name="A9">
+        </Component>
+        <Component class="javax.swing.JTextField" name="B7">
+        </Component>
+        <Component class="javax.swing.JTextField" name="B8">
+        </Component>
+        <Component class="javax.swing.JTextField" name="B9">
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
