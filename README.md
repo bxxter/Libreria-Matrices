@@ -86,6 +86,8 @@ Matriz.imprimirMatriz(producto);
 ### Screenshots
 ![Frame Operaciones Matriz](https://i.imgur.com/s42YDBv.png)
 
+![Frame resultados operaciones](https://i.imgur.com/qLmFCP0.png)
+
 
 ## 🚀 Construido con  
 * ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
