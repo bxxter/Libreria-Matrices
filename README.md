@@ -82,7 +82,6 @@ Matriz.imprimirMatriz(producto);
 
 [![Video Explicativo](https://img.youtube.com/vi/UlRzD6CIt90/0.jpg)](https://www.youtube.com/watch?v=UlRzD6CIt90&feature=youtu.be)
 
-Si prefieres verlo en YouTube, puedes abrir el siguiente enlace: [Ver en YouTube](https://www.youtube.com/watch?v=UlRzD6CIt90&feature=youtu.be)
 
 ### Screenshots
 ![Frame Operaciones Matriz](https://i.imgur.com/s42YDBv.png)
