@@ -33,31 +33,31 @@ La clase Matriz proporciona métodos para realizar operaciones con matrices, las
 
 ## 📦 Instalación  
 1. Clona el repositorio  
-bash  
+```bash  
 git clone https://github.com/bxxter/Libreria-Matrices.git  
-  
+```  
 2. En tu proyecto de Java, agrega el archivo Proyecto_Libreria.jar a las librerías:  
    - En NetBeans: haz clic derecho sobre la carpeta "Libraries" dentro de tu proyecto *Projects -> Libraries -> Add JAR/Folder* y selecciona LibreriaMatrices.jar.  
 3. Importa la librería en tu código con:  
-   java  
-   import libreria_matrices.Matriz;  
-     
+```   java  
+import libreria_matrices.Matriz;  
+```     
 
 ## 🛠 Uso/Ejemplo  
 
 ### Crear una matriz  
 
-java  
+```java  
 double[][] m = Matriz.crearMatriz(2, 2); // Crear matriz 2x2  
 Matriz.setValor(m, 0, 0, 1.5); // Establecer valor en (0,0)  
 Matriz.setValor(m, 0, 1, 2.0); // Establecer valor en (0,1)  
 Matriz.setValor(m, 1, 0, 3.0); // Establecer valor en (1,0)  
 Matriz.setValor(m, 1, 1, 4.5); // Establecer valor en (1,1)  
-
+```
 
 ### Operaciones básicas  
 
-java  
+```java  
 // Crear dos matrices  
 double[][] m1 = { {1, 2}, {3, 4} };  
 double[][] m2 = { {5, 6}, {7, 8} };  
@@ -74,7 +74,7 @@ Matriz.imprimirMatriz(resta);
 // Multiplicación  
 double[][] producto = Matriz.multiplicar(m1, m2);  
 Matriz.imprimirMatriz(producto);  
-  
+```  
 
 ## ⚙ Ejemplo de Implementación  
 
