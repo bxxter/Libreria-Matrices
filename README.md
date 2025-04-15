@@ -37,7 +37,7 @@ La clase Matriz proporciona métodos para realizar operaciones con matrices, las
 git clone https://github.com/bxxter/Libreria-Matrices.git  
 ```  
 2. En tu proyecto de Java, agrega el archivo Proyecto_Libreria.jar a las librerías:  
-   - En NetBeans: haz clic derecho sobre la carpeta "Libraries" dentro de tu proyecto *Projects -> Libraries -> Add JAR/Folder* y selecciona LibreriaMatrices.jar.  
+   - En NetBeans: haz clic derecho sobre la carpeta "Libraries" dentro de tu proyecto *Projects -> Libraries -> Add JAR/Folder* y selecciona Proyecto_Libreria.jar.  
 3. Importa la librería en tu código con:  
 ```   java  
 import libreria_matrices.Matriz;  
